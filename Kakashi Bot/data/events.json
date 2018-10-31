@@ -1,0 +1,1 @@
+[null,{"name":"Reload","temp":"5","event-type":"3","_id":"UgekI","actions":[{"info":"3","storage":"1","varName2":"guild count","name":"Store Bot Client Info"},{"activity":"2","nameText":"over ${tempVars(\"guild count\")} server(s) | =Help","url":"https://www.youtube.com/channel/UCZ5XnGb-3t7jCkXdawN2tkA","stat":"3","name":"Set Bot Activity"}]}]
